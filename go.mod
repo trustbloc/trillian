@@ -15,7 +15,7 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/mock v1.5.0
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.2
 	github.com/google/btree v1.0.0
 	github.com/google/certificate-transparency-go v1.0.21
 	github.com/google/go-cmp v0.5.5
@@ -39,10 +39,10 @@ require (
 	go.opencensus.io v0.23.0
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210305230114-8fe3ee5dd75b
-	golang.org/x/tools v0.1.0
-	google.golang.org/api v0.41.0
-	google.golang.org/genproto v0.0.0-20210303154014-9728d6b83eeb
-	google.golang.org/grpc v1.36.0
-	google.golang.org/protobuf v1.25.0
+	golang.org/x/sys v0.0.0-20210514084401-e8d321eab015
+	golang.org/x/tools v0.1.1
+	google.golang.org/api v0.47.0
+	google.golang.org/genproto v0.0.0-20210513213006-bf773b8c8384
+	google.golang.org/grpc v1.37.1
+	google.golang.org/protobuf v1.26.0
 )
