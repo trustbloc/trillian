@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	bitbucket.org/creachadair/shell v0.0.6
-	cloud.google.com/go/spanner v1.15.0
+	cloud.google.com/go/spanner v1.22.0
 	contrib.go.opencensus.io/exporter/stackdriver v0.13.5
 	github.com/Masterminds/goutils v1.1.0 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
@@ -15,10 +15,10 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/mock v1.5.0
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.2
 	github.com/google/btree v1.0.0
 	github.com/google/certificate-transparency-go v1.0.21
-	github.com/google/go-cmp v0.5.5
+	github.com/google/go-cmp v0.5.6
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
 	github.com/huandu/xstrings v1.2.0 // indirect
 	github.com/letsencrypt/pkcs11key/v4 v4.0.0
@@ -39,10 +39,10 @@ require (
 	go.opencensus.io v0.23.0
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210305230114-8fe3ee5dd75b
-	golang.org/x/tools v0.1.0
-	google.golang.org/api v0.41.0
-	google.golang.org/genproto v0.0.0-20210303154014-9728d6b83eeb
-	google.golang.org/grpc v1.36.0
-	google.golang.org/protobuf v1.25.0
+	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
+	golang.org/x/tools v0.1.3
+	google.golang.org/api v0.49.0
+	google.golang.org/genproto v0.0.0-20210624174822-c5cf32407d0a
+	google.golang.org/grpc v1.38.0
+	google.golang.org/protobuf v1.27.1
 )
